@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637800057490196475
-    m_Hash: 3088832272
+      ticks: 637808352379218709
+    m_Hash: 3556107054
   m_LockFileStatus:
     m_FilePath: D:/Connor/Unity/RoguelikeGit/Roguelike/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637800057616771814
-    m_Hash: 850399300
+      ticks: 637808352379308729
+    m_Hash: 417399706
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -77,11 +77,13 @@ m_ResolvedPackages:
     - 1.14.7
     - 1.14.9
     - 1.14.12
+    - 1.14.13
     - 1.15.1
     - 1.15.4
     - 1.15.7
     - 1.15.9
     - 1.15.12
+    - 1.15.13
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -99,11 +101,13 @@ m_ResolvedPackages:
     - 1.14.7
     - 1.14.9
     - 1.14.12
+    - 1.14.13
     - 1.15.1
     - 1.15.4
     - 1.15.7
     - 1.15.9
     - 1.15.12
+    - 1.15.13
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -246,12 +250,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.7
     nextVersion: 
-- packageId: com.unity.ide.visualstudio@2.0.11
+- packageId: com.unity.ide.visualstudio@2.0.14
   testable: 0
   isDirectDependency: 1
-  version: 2.0.11
+  version: 2.0.14
   source: 1
-  resolvedPath: D:\Connor\Unity\RoguelikeGit\Roguelike\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
+  resolvedPath: D:\Connor\Unity\RoguelikeGit\Roguelike\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -313,13 +317,13 @@ m_ResolvedPackages:
   hasRegistry: 1
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637613656180000000
+  datePublishedTicks: 637782923640000000
   documentationUrl: 
-  hasRepository: 1
+  hasRepository: 0
   repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: 680e06d94ffca728223ae2cb14bb919cd354e2c1
+    type: 
+    url: 
+    revision: 
     path: 
   unityLifecycle:
     version: 2.0.11
@@ -358,9 +362,11 @@ m_ResolvedPackages:
     - 1.2.2
     - 1.2.3
     - 1.2.4
+    - 1.2.5
     compatible:
     - 1.2.4
-    verified: 1.2.4
+    - 1.2.5
+    verified: 1.2.5
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -437,14 +443,16 @@ m_ResolvedPackages:
     - 1.1.27
     - 1.1.29
     - 1.1.30
+    - 1.1.31
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
     - 1.1.29
     - 1.1.30
+    - 1.1.31
     - 2.0.1-pre.12
     - 2.0.1-pre.18
-    verified: 1.1.30
+    verified: 1.1.31
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -2871,6 +2879,7 @@ m_ResolvedPackages:
     - 1.1.0-pre.10
     - 1.1.0-pre.11
     - 1.1.0-pre.41
+    - 1.1.0-pre.69
     compatible:
     - 1.0.1
     - 1.1.0-pre.7
@@ -2879,6 +2888,7 @@ m_ResolvedPackages:
     - 1.1.0-pre.10
     - 1.1.0-pre.11
     - 1.1.0-pre.41
+    - 1.1.0-pre.69
     verified: 1.0.1
   dependencies:
   - name: com.unity.modules.unitywebrequest
