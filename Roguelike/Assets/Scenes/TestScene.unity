@@ -350,6 +350,8 @@ MonoBehaviour:
   - {fileID: 882070902458210769, guid: 7312744d4727b7042a908853d958e2ed, type: 3}
   - {fileID: 44965502916845532, guid: 9035842e0177f74448e8025c4ca6b930, type: 3}
   - {fileID: 8643749172988233857, guid: 521616ae20e1b9d46a756009ffded69e, type: 3}
+  closedRooms: {fileID: 6150211187567523635, guid: 48dd2ddc684eab942a6525b975788b50, type: 3}
+  rooms: []
 --- !u!4 &2020518536
 Transform:
   m_ObjectHideFlags: 0
